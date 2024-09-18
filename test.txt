@@ -9,4 +9,8 @@ SDFsflsmflm
 seguimos probanvoooo sdflksdflkdslk
 seguimos provando 
 ahora un stash
+<<<<<<< HEAD
 a mi si me gusta el local
+=======
+pero ahora no me gusta el local 
+>>>>>>> 3d691bce95af7566d1b4a5ed1136f2992d8a94bf
