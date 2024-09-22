@@ -8,7 +8,6 @@ sdf,lmsdlçf
 
 Ahora mamamalo
 git status
-<<<<<<< HEAD
 
 
 
@@ -19,6 +18,3 @@ a
 
 
 brazil
-=======
-cananda
->>>>>>> dccb074f5b72b62c1be83315b92dbecc4c65a83d
